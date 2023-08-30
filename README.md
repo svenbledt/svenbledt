@@ -18,7 +18,6 @@
 <a href="https://github.com/svenbledt">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=svenbledt&show_icons=true&title_color=c9d1d9&icon_color=58a6da&text_color=c9d1d9&bg_color=0d1117&hide=issues" alt="svenbledt's Github Stats" width="60%">
  </a>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://github.com/svenbledt">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svenbledt&show_icons=true&title_color=c9d1d9&icon_color=58a6da&text_color=c9d1d9&bg_color=0d1117" alt="svenbledt's Github Stats" width="35%">
  </a>
