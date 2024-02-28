@@ -103,7 +103,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 
 ## :zap: My current projects:
 
- - [**NiHub Trojan**](https://github.com/svenbledt/NiHub_Trojan)  - Profile Framework for World of Warcraft and its older expansions.
+ - [**Apofis DragonFlight**](https://github.com/svenbledt/Apofis-Dragonflight)  - Profile Framework for World of Warcraft's latest Expansion.
 
 
 ## :snowflake: Closed projects:
