@@ -26,7 +26,7 @@
 ## :zap: Codding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-295%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-295%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profilansichten-1-blue)
 
@@ -71,16 +71,16 @@ Sonntag                  108 commits         █░░░░░░░░░░�
 🕑︎ Zeitzone: Europe/Zurich
 
 💬 Programmiersprachen: 
-Diese Woche wurde keine Aktivität gespeichert
+Text                     7 mins              █████████████████████████   100.00 % 
 
 🔥 Editoren: 
-Diese Woche wurde keine Aktivität gespeichert
+VS Code                  7 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projekte: 
-Diese Woche wurde keine Aktivität gespeichert
+Unknown Project          7 mins              █████████████████████████   100.00 % 
 
 💻 Betriebssystem: 
-Diese Woche wurde keine Aktivität gespeichert
+Windows                  7 mins              █████████████████████████   100.00 % 
 ```
 
 **Ich code am meisten in JavaScript** 
@@ -96,7 +96,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/03/2024 00:17:56 UTC
+ Last Updated on 19/03/2024 00:17:10 UTC
 <!--END_SECTION:waka-->
 
 
