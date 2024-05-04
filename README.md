@@ -26,9 +26,9 @@
 ## :zap: Codding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-298%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-299%20hrs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profilansichten-1-blue)
+![Profile Views](http://img.shields.io/badge/Profilansichten-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/Seit%20Hallo%20Welt%20habe%20ich%20geschrieben-20.5%20million%20Codezeilen-blue)
 
@@ -71,16 +71,21 @@ Sonntag                  108 commits         █░░░░░░░░░░�
 🕑︎ Zeitzone: Europe/Zurich
 
 💬 Programmiersprachen: 
-Lua                      0 secs              █████████████████████████   100.00 % 
+Text                     2 mins              █████████████░░░░░░░░░░░░   50.53 % 
+INI                      2 mins              ████████████░░░░░░░░░░░░░   48.80 % 
+Lua                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 🔥 Editoren: 
-Intellijidea             0 secs              █████████████████████████   100.00 % 
+VS Code                  4 mins              █████████████████████████   99.34 % 
+Intellijidea             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 🐱‍💻 Projekte: 
-Apofis-Dragonflight      0 secs              █████████████████████████   100.00 % 
+Unknown Project          4 mins              █████████████████████████   99.34 % 
+Apofis-Dragonflight      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 💻 Betriebssystem: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+Windows                  4 mins              █████████████████████████   99.34 % 
+Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 ```
 
 **Ich code am meisten in JavaScript** 
@@ -96,7 +101,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/05/2024 00:17:30 UTC
+ Last Updated on 04/05/2024 00:17:08 UTC
 <!--END_SECTION:waka-->
 
 
