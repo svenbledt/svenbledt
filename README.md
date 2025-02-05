@@ -26,9 +26,9 @@
 ## :zap: Codding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-434%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-438%20hrs%2047%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profilansichten-0-blue)
+![Profile Views](http://img.shields.io/badge/Profilansichten-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/Seit%20Hallo%20Welt%20habe%20ich%20geschrieben-29.2%20million%20Codezeilen-blue)
 
@@ -71,16 +71,18 @@ Sonntag                  198 commits         ██░░░░░░░░░�
 🕑︎ Zeitzone: Europe/Zurich
 
 💬 Programmiersprachen: 
-Diese Woche wurde keine Aktivität gespeichert
+JavaScript               4 hrs 2 mins        ███████████████████████░░   91.78 % 
+YAML                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
 
 🔥 Editoren: 
-Diese Woche wurde keine Aktivität gespeichert
+Cursor                   4 hrs 24 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projekte: 
-Diese Woche wurde keine Aktivität gespeichert
+Warmane-Bot              4 hrs 2 mins        ███████████████████████░░   91.78 % 
+svenbledt-1              21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
 
 💻 Betriebssystem: 
-Diese Woche wurde keine Aktivität gespeichert
+Windows                  4 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **Ich code am meisten in JavaScript** 
@@ -96,7 +98,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/02/2025 00:09:10 UTC
+ Last Updated on 05/02/2025 00:09:33 UTC
 <!--END_SECTION:waka-->
 
 
