@@ -106,20 +106,3 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 
  Last Updated on 06/02/2025 00:09:16 UTC
 <!--END_SECTION:waka-->
-
-
-## :zap: My current projects:
-
- - [**Apofis DragonFlight**](https://github.com/svenbledt/Apofis-Dragonflight)  - Profile Framework for World of Warcraft's latest Expansion.
-
-
-## :snowflake: Closed projects:
-  
-- [![GitHub stars](https://img.shields.io/github/stars/svenbledt/first-laravel?style=flat-square)](https://github.com/svenbledt/first-laravel)
- [**first Laravel**](https://github.com/svenbledt/first-laravel)  - this was my first laravel project. Just to learn the Framework
-
-- [![GitHub stars](https://img.shields.io/github/stars/svenbledt/startup-bs?style=flat-square)](https://github.com/svenbledt/startup-bs)
-[![Last Release](https://img.shields.io/github/v/release/svenbledt/startup-bs?style=flat-square)](https://github.com/svenbledt/startup-bs)
-[![GitHub Last Download](https://img.shields.io/github/downloads/svenbledt/startup-bs/v1.1.0/total?style=flat-square)](https://github.com/svenbledt/startup-bs/releases/tag/v1.1.0)
-[![GitHub All Releases](https://img.shields.io/github/downloads/svenbledt/startup-bs/total?style=flat-square)](https://github.com/svenbledt/startup-bs/releases)
- [**startup bs**](https://github.com/svenbledt/startup-bs)  - this was my startup bootstrap project. Just to learn the Framework
