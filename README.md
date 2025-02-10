@@ -6,6 +6,7 @@
 <p>
 
  - 🔭 I’m currently working on **[Warmane-Tool](https://github.com/svenbledt/Warmane-Bot)** [![wakatime](https://wakatime.com/badge/user/eb1cebc0-6a00-4f39-ab37-6770a4331515/project/b1c02622-6489-4920-898c-6e91c5bba727.svg)](https://wakatime.com/badge/user/eb1cebc0-6a00-4f39-ab37-6770a4331515/project/b1c02622-6489-4920-898c-6e91c5bba727)
+ - 🔭 My current main Project is **[Streckenkunde](https://github.com/Streckenkunde)** [![wakatime](https://wakatime.com/badge/user/eb1cebc0-6a00-4f39-ab37-6770a4331515/project/8c10f4f0-0d09-4e0e-b526-eec4de9936b6.svg)](https://wakatime.com/badge/user/eb1cebc0-6a00-4f39-ab37-6770a4331515/project/8c10f4f0-0d09-4e0e-b526-eec4de9936b6)
 
  - 🌱 I’m currently learning: **[Lua](https://www.lua.org/)**
  
