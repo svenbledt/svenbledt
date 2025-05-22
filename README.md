@@ -27,8 +27,6 @@
 ## :zap: Codding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-670%20hrs%2048%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profilansichten-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/Seit%20Hallo%20Welt%20habe%20ich%20geschrieben-29.9%20million%20Codezeilen-blue)
@@ -37,7 +35,7 @@
 
 > 📦 3.1 MB im GitHub's Speicher verwendet 
  > 
-> 🏆 583 Beiträge im Jahr 2025
+> 🏆 0 Beiträge im Jahr 2025
  > 
 > 🚫 Sucht nicht nach Auftragsarbeiten
  > 
@@ -45,45 +43,6 @@
  > 
 > 🔑 42 private Repositories 
  > 
-**Ich bin ein Frühaufsteher 🐤** 
-
-```text
-🌞 Morgens                1000 commits        ███████░░░░░░░░░░░░░░░░░░   26.61 % 
-🌆 Mittags                1350 commits        █████████░░░░░░░░░░░░░░░░   35.92 % 
-🌃 Abends                 879 commits         ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
-🌙 Nachts                 529 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-```
-📅 **Ich bin am Montag am produktivsten** 
-
-```text
-Montag                   915 commits         ██████░░░░░░░░░░░░░░░░░░░   24.35 % 
-Dienstag                 796 commits         █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
-Mittwoch                 629 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
-Donnerstag               507 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Freitag                  273 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-Samstag                  341 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-Sonntag                  297 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-```
-
-
-📊 **Diese Woche habe ich meine Zeit damit verbracht** 
-
-```text
-🕑︎ Zeitzone: Europe/Zurich
-
-💬 Programmiersprachen: 
-Diese Woche wurde keine Aktivität gespeichert
-
-🔥 Editoren: 
-Diese Woche wurde keine Aktivität gespeichert
-
-🐱‍💻 Projekte: 
-Diese Woche wurde keine Aktivität gespeichert
-
-💻 Betriebssystem: 
-Diese Woche wurde keine Aktivität gespeichert
-```
-
 **Ich code am meisten in JavaScript** 
 
 ```text
@@ -97,5 +56,5 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/05/2025 00:11:28 UTC
+ Last Updated on 22/05/2025 00:11:15 UTC
 <!--END_SECTION:waka-->
