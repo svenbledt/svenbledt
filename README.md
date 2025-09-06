@@ -1,6 +1,6 @@
 ### <img src="https://github.com/svenbledt/svenbledt/blob/main/Assets/Hi.gif" height="28" width="24"> **Hello Github!** &nbsp;<img src="https://github.com/svenbledt/svenbledt/blob/main/Assets/Earth.gif" height="24" width="24">
 [![GitHub Followers](https://img.shields.io/github/followers/svenbledt?label=Follow&style=flat-squaree&logo=github&labelColor=black&color=black&cacheSeconds=5)](https://github.com/svenbledt)
-[![Discord Server](https://img.shields.io/discord/443405445831327754?style=flat-squeree&logo=discord&logoColor=white&label=Trojan%20Rotations%20Server&labelColor=black&color=gray&cacheSeconds=3650)](https://discord.gg/c6GZKjVhxw)
+[![Discord Server](https://img.shields.io/discord/443405445831327754?style=flat-squeree&logo=discord&logoColor=white&label=Trojan%20Chillecke%20Server&labelColor=black&color=gray&cacheSeconds=3650)](https://discord.gg/c6GZKjVhxw)
 <img align="right" alt="PC GIF" src="https://github.com/svenbledt/svenbledt/blob/main/Assets/PC.gif" width="175" />
 
 <p>
