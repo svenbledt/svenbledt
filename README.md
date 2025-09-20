@@ -27,36 +27,34 @@
 ## :zap: Codding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-948%20hrs%2037%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profilansichten-0-blue)
 
-![Lines of code](https://img.shields.io/badge/Seit%20Hallo%20Welt%20habe%20ich%20geschrieben-37.7%20million%20Codezeilen-blue)
+![Lines of code](https://img.shields.io/badge/Seit%20Hallo%20Welt%20habe%20ich%20geschrieben-37.9%20million%20Codezeilen-blue)
 
 **🐱 Meine GitHub-Daten** 
 
 > 📦 3.2 MB im GitHub's Speicher verwendet 
  > 
-> 🏆 1,040 Beiträge im Jahr 2025
+> 🏆 1,051 Beiträge im Jahr 2025
  > 
 > 🚫 Sucht nicht nach Auftragsarbeiten
  > 
-> 📜 42 öffentliche Repositories 
+> 📜 43 öffentliche Repositories 
  > 
-> 🔑 48 private Repositories 
+> 🔑 47 private Repositories 
  > 
 **Ich code am meisten in JavaScript** 
 
 ```text
-JavaScript               22 repos            ███████░░░░░░░░░░░░░░░░░░   27.16 % 
-Lua                      18 repos            ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-C++                      10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-PHP                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+JavaScript               23 repos            ███████░░░░░░░░░░░░░░░░░░   27.71 % 
+Lua                      18 repos            █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
+C++                      10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+PHP                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
 ```
 
 
 
 
- Last Updated on 17/09/2025 00:11:37 UTC
+ Last Updated on 20/09/2025 00:12:52 UTC
 <!--END_SECTION:waka-->
