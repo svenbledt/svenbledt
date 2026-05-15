@@ -27,8 +27,6 @@
 ## :zap: Codding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C256%20hrs%2047%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profilansichten-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/Seit%20Hallo%20Welt%20habe%20ich%20geschrieben-35.50%20million%20Codezeilen-blue?style=flat)
@@ -45,45 +43,6 @@
  > 
 > 🔑 63 private Repositories 
  > 
-**Ich bin ein Frühaufsteher 🐤** 
-
-```text
-🌞 Morgens                1426 commits        █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
-🌆 Mittags                2460 commits        ████████░░░░░░░░░░░░░░░░░   32.33 % 
-🌃 Abends                 2234 commits        ███████░░░░░░░░░░░░░░░░░░   29.36 % 
-🌙 Nachts                 1488 commits        █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
-```
-📅 **Ich bin am Montag am produktivsten** 
-
-```text
-Montag                   1506 commits        █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
-Dienstag                 1206 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-Mittwoch                 1053 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-Donnerstag               1209 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-Freitag                  855 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-Samstag                  921 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-Sonntag                  858 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-```
-
-
-📊 **Diese Woche habe ich meine Zeit damit verbracht** 
-
-```text
-🕑︎ Zeitzone: Europe/Zurich
-
-💬 Programmiersprachen: 
-Diese Woche wurde keine Aktivität gespeichert
-
-🔥 Editoren: 
-Diese Woche wurde keine Aktivität gespeichert
-
-🐱‍💻 Projekte: 
-Diese Woche wurde keine Aktivität gespeichert
-
-💻 Betriebssystem: 
-Diese Woche wurde keine Aktivität gespeichert
-```
-
 **Ich code am meisten in JavaScript** 
 
 ```text
@@ -97,5 +56,5 @@ Python                   4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/05/2026 00:54:16 UTC
+ Last Updated on 15/05/2026 00:51:11 UTC
 <!--END_SECTION:waka-->
