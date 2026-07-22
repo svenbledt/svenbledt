@@ -31,38 +31,38 @@
 
 ![Profile Views](http://img.shields.io/badge/Profilansichten-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/Seit%20Hallo%20Welt%20habe%20ich%20geschrieben-39.11%20million%20Codezeilen-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/Seit%20Hallo%20Welt%20habe%20ich%20geschrieben-44.08%20million%20Codezeilen-blue?style=flat)
 
 **🐱 Meine GitHub-Daten** 
 
 > 📦 3.8 MB im GitHub's Speicher verwendet 
  > 
-> 🏆 5,049 Beiträge im Jahr 2026
+> 🏆 5,092 Beiträge im Jahr 2026
  > 
 > 🚫 Sucht nicht nach Auftragsarbeiten
  > 
-> 📜 57 öffentliche Repositories 
+> 📜 58 öffentliche Repositories 
  > 
-> 🔑 72 private Repositories 
+> 🔑 73 private Repositories 
  > 
 **Ich bin eine Nachteule 🦉** 
 
 ```text
-🌞 Morgens                1892 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
-🌆 Mittags                3965 commits        ███████░░░░░░░░░░░░░░░░░░   28.73 % 
-🌃 Abends                 4590 commits        ████████░░░░░░░░░░░░░░░░░   33.26 % 
-🌙 Nachts                 3353 commits        ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
+🌞 Morgens                2155 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+🌆 Mittags                5563 commits        ███████░░░░░░░░░░░░░░░░░░   27.77 % 
+🌃 Abends                 7158 commits        █████████░░░░░░░░░░░░░░░░   35.73 % 
+🌙 Nachts                 5157 commits        ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
 ```
-📅 **Ich bin am Montag am produktivsten** 
+📅 **Ich bin am Dienstag am produktivsten** 
 
 ```text
-Montag                   2465 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-Dienstag                 2154 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-Mittwoch                 1958 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-Donnerstag               1926 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-Freitag                  1545 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-Samstag                  1758 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
-Sonntag                  1994 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+Montag                   3290 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+Dienstag                 3508 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+Mittwoch                 3446 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+Donnerstag               2393 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Freitag                  1917 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+Samstag                  2365 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Sonntag                  3114 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
 ```
 
 
@@ -87,15 +87,15 @@ Diese Woche wurde keine Aktivität gespeichert
 **Ich code am meisten in JavaScript** 
 
 ```text
-Lua                      25 repos            █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-TypeScript               18 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-C++                      12 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-C#                       8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-Python                   6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+Lua                      25 repos            █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
+TypeScript               19 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+C++                      12 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+C#                       8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+Python                   6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 ```
 
 
 
 
- Last Updated on 21/07/2026 01:04:36 UTC
+ Last Updated on 22/07/2026 00:59:06 UTC
 <!--END_SECTION:waka-->
