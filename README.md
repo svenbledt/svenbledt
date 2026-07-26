@@ -27,15 +27,17 @@
 ## :zap: Codding Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C256%20hrs%2054%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profilansichten-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/Seit%20Hallo%20Welt%20habe%20ich%20geschrieben-44.15%20million%20Codezeilen-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/Seit%20Hallo%20Welt%20habe%20ich%20geschrieben-55.41%20million%20Codezeilen-blue?style=flat)
 
 **🐱 Meine GitHub-Daten** 
 
 > 📦 3.8 MB im GitHub's Speicher verwendet 
  > 
-> 🏆 5,231 Beiträge im Jahr 2026
+> 🏆 5,310 Beiträge im Jahr 2026
  > 
 > 🚫 Sucht nicht nach Auftragsarbeiten
  > 
@@ -43,6 +45,45 @@
  > 
 > 🔑 73 private Repositories 
  > 
+**Ich bin eine Nachteule 🦉** 
+
+```text
+🌞 Morgens                2239 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+🌆 Mittags                5683 commits        ███████░░░░░░░░░░░░░░░░░░   27.63 % 
+🌃 Abends                 7336 commits        █████████░░░░░░░░░░░░░░░░   35.67 % 
+🌙 Nachts                 5307 commits        ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
+```
+📅 **Ich bin am Mittwoch am produktivsten** 
+
+```text
+Montag                   3304 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+Dienstag                 3542 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Mittwoch                 3704 commits        █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+Donnerstag               2420 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+Freitag                  2028 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+Samstag                  2441 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+Sonntag                  3126 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+```
+
+
+📊 **Diese Woche habe ich meine Zeit damit verbracht** 
+
+```text
+🕑︎ Zeitzone: Europe/Zurich
+
+💬 Programmiersprachen: 
+Diese Woche wurde keine Aktivität gespeichert
+
+🔥 Editoren: 
+Diese Woche wurde keine Aktivität gespeichert
+
+🐱‍💻 Projekte: 
+Diese Woche wurde keine Aktivität gespeichert
+
+💻 Betriebssystem: 
+Diese Woche wurde keine Aktivität gespeichert
+```
+
 **Ich code am meisten in JavaScript** 
 
 ```text
@@ -56,5 +97,5 @@ Python                   6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 01:02:56 UTC
+ Last Updated on 26/07/2026 01:07:09 UTC
 <!--END_SECTION:waka-->
