@@ -33,7 +33,7 @@
 
 ![Profile Views](http://img.shields.io/badge/Profilansichten-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/Seit%20Hallo%20Welt%20habe%20ich%20geschrieben-55.45%20million%20Codezeilen-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/Seit%20Hallo%20Welt%20habe%20ich%20geschrieben-49.31%20million%20Codezeilen-blue?style=flat)
 
 **🐱 Meine GitHub-Daten** 
 
@@ -47,51 +47,6 @@
  > 
 > 🔑 73 private Repositories 
  > 
-**Ich bin eine Nachteule 🦉** 
-
-```text
-🌞 Morgens                2256 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-🌆 Mittags                5684 commits        ███████░░░░░░░░░░░░░░░░░░   27.53 % 
-🌃 Abends                 7361 commits        █████████░░░░░░░░░░░░░░░░   35.65 % 
-🌙 Nachts                 5347 commits        ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
-```
-📅 **Ich bin am Mittwoch am produktivsten** 
-
-```text
-Montag                   3316 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-Dienstag                 3544 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-Mittwoch                 3693 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
-Donnerstag               2422 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-Freitag                  2037 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
-Samstag                  2449 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-Sonntag                  3187 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-```
-
-
-📊 **Diese Woche habe ich meine Zeit damit verbracht** 
-
-```text
-🕑︎ Zeitzone: Europe/Zurich
-
-💬 Programmiersprachen: 
-Diese Woche wurde keine Aktivität gespeichert
-
-🔥 Editoren: 
-Diese Woche wurde keine Aktivität gespeichert
-
-🐱‍💻 Projekte: 
-Diese Woche wurde keine Aktivität gespeichert
-
-💻 Betriebssystem: 
-Diese Woche wurde keine Aktivität gespeichert
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **Ich code am meisten in JavaScript** 
 
 ```text
@@ -105,5 +60,5 @@ Python                   6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 01:06:19 UTC
+ Last Updated on 29/07/2026 01:03:42 UTC
 <!--END_SECTION:waka-->
