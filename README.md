@@ -33,13 +33,13 @@
 
 ![Profile Views](http://img.shields.io/badge/Profilansichten-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/Seit%20Hallo%20Welt%20habe%20ich%20geschrieben-48.60%20million%20Codezeilen-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/Seit%20Hallo%20Welt%20habe%20ich%20geschrieben-59.30%20million%20Codezeilen-blue?style=flat)
 
 **🐱 Meine GitHub-Daten** 
 
 > 📦 3.9 MB im GitHub's Speicher verwendet 
  > 
-> 🏆 5,721 Beiträge im Jahr 2026
+> 🏆 5,789 Beiträge im Jahr 2026
  > 
 > 🚫 Sucht nicht nach Auftragsarbeiten
  > 
@@ -47,63 +47,18 @@
  > 
 > 🔑 75 private Repositories 
  > 
-**Ich bin eine Nachteule 🦉** 
-
-```text
-🌞 Morgens                2458 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-🌆 Mittags                7020 commits        ███████░░░░░░░░░░░░░░░░░░   27.31 % 
-🌃 Abends                 9403 commits        █████████░░░░░░░░░░░░░░░░   36.57 % 
-🌙 Nachts                 6828 commits        ███████░░░░░░░░░░░░░░░░░░   26.56 % 
-```
-📅 **Ich bin am Mittwoch am produktivsten** 
-
-```text
-Montag                   4011 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-Dienstag                 4639 commits        █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
-Mittwoch                 4909 commits        █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
-Donnerstag               2787 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-Freitag                  2287 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
-Samstag                  2962 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-Sonntag                  4114 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-```
-
-
-📊 **Diese Woche habe ich meine Zeit damit verbracht** 
-
-```text
-🕑︎ Zeitzone: Europe/Zurich
-
-💬 Programmiersprachen: 
-Diese Woche wurde keine Aktivität gespeichert
-
-🔥 Editoren: 
-Diese Woche wurde keine Aktivität gespeichert
-
-🐱‍💻 Projekte: 
-Diese Woche wurde keine Aktivität gespeichert
-
-💻 Betriebssystem: 
-Diese Woche wurde keine Aktivität gespeichert
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **Ich code am meisten in JavaScript** 
 
 ```text
-Lua                      24 repos            █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-TypeScript               19 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-PHP                      10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-C#                       8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Python                   6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Lua                      24 repos            █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+TypeScript               20 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+PHP                      10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+C#                       8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+Python                   6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 ```
 
 
 
 
- Last Updated on 06/08/2026 02:24:04 UTC
+ Last Updated on 07/08/2026 02:50:05 UTC
 <!--END_SECTION:waka-->
