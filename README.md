@@ -27,19 +27,19 @@
 ## :zap: Codding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C319%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C352%20hrs%2033%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-119%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-152%20hrs%2053%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profilansichten-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profilansichten-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/Seit%20Hallo%20Welt%20habe%20ich%20geschrieben-36.68%20million%20Codezeilen-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/Seit%20Hallo%20Welt%20habe%20ich%20geschrieben-48.92%20million%20Codezeilen-blue?style=flat)
 
 **🐱 Meine GitHub-Daten** 
 
 > 📦 3.9 MB im GitHub's Speicher verwendet 
  > 
-> 🏆 6,314 Beiträge im Jahr 2026
+> 🏆 6,361 Beiträge im Jahr 2026
  > 
 > 🚫 Sucht nicht nach Auftragsarbeiten
  > 
@@ -50,21 +50,21 @@
 **Ich bin eine Nachteule 🦉** 
 
 ```text
-🌞 Morgens                2362 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-🌆 Mittags                7145 commits        ███████░░░░░░░░░░░░░░░░░░   26.87 % 
-🌃 Abends                 9850 commits        █████████░░░░░░░░░░░░░░░░   37.04 % 
-🌙 Nachts                 7234 commits        ███████░░░░░░░░░░░░░░░░░░   27.20 % 
+🌞 Morgens                2423 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+🌆 Mittags                7065 commits        ███████░░░░░░░░░░░░░░░░░░   26.88 % 
+🌃 Abends                 9683 commits        █████████░░░░░░░░░░░░░░░░   36.83 % 
+🌙 Nachts                 7117 commits        ███████░░░░░░░░░░░░░░░░░░   27.07 % 
 ```
 📅 **Ich bin am Mittwoch am produktivsten** 
 
 ```text
-Montag                   4150 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-Dienstag                 4826 commits        █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
-Mittwoch                 5005 commits        █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
-Donnerstag               2919 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-Freitag                  2300 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-Samstag                  3078 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-Sonntag                  4313 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Montag                   4154 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+Dienstag                 4835 commits        █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+Mittwoch                 4989 commits        █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
+Donnerstag               2853 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+Freitag                  2303 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+Samstag                  2969 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+Sonntag                  4185 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
 ```
 
 
@@ -74,66 +74,66 @@ Sonntag                  4313 commits        ████░░░░░░░�
 🕑︎ Zeitzone: Europe/Zurich
 
 💬 Programmiersprachen: 
-TypeScript               55 hrs 2 mins       ██████████████░░░░░░░░░░░   54.72 % 
-Markdown                 28 hrs 19 mins      ███████░░░░░░░░░░░░░░░░░░   28.16 % 
-JavaScript               3 hrs 58 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-Other                    3 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-JSON                     2 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+TypeScript               59 hrs 17 mins      ██████████████░░░░░░░░░░░   57.14 % 
+Markdown                 27 hrs 45 mins      ███████░░░░░░░░░░░░░░░░░░   26.75 % 
+JavaScript               3 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Other                    2 hrs 51 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Diff                     2 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 
 🔥 Editoren: 
-Claude Code              92 hrs 12 mins      ███████████████████████░░   91.66 % 
-Agent                    7 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-Cursor                   1 hr 9 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Claude Code              94 hrs 14 mins      ███████████████████████░░   90.83 % 
+Agent                    8 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+Cursor                   1 hr 8 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 🐱‍💻 Projekte: 
-HavenCMS                 88 hrs 46 mins      ██████████████████████░░░   88.25 % 
-Anfahrtskostenrechner-App4 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-BFA-Haven-Web            3 hrs 43 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-trojan_discordlogs       1 hr 9 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-Unknown Project          49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+HavenCMS                 93 hrs 1 min        ██████████████████████░░░   89.66 % 
+Anfahrtskostenrechner-App4 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+BFA-Haven-Web            2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+trojan_discordlogs       1 hr 9 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+BFA-HavenCore-Corruption 1 hr 5 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 
 💻 Betriebssystem: 
-Windows                  100 hrs 35 mins     █████████████████████████   100.00 % 
+Windows                  103 hrs 45 mins     █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 100 hrs 15 mins (99.66%)
+⏱ AI Coding Time: 103 hrs 25 mins (99.68%)
 
-✍️ 157,193 lines written by AI, 313 lines written by hand (99.8% AI-written)
+✍️ 167,308 lines written by AI, 283 lines written by hand (99.83% AI-written)
 
-🔤 79,436,777 Input Tokens, 16,105,166 Output Tokens
+🔤 83,458,338 Input Tokens, 17,276,239 Output Tokens
 
-💵 $1437.81 Estimated AI Cost This Week
+💵 $1618.24 Estimated AI Cost This Week
 
-🧠 58 AI Sessions, 780 AI Prompts
+🧠 58 AI Sessions, 859 AI Prompts
 
-Opus                     87,820 lines        ██████████████░░░░░░░░░░░   54.90 % 
-Sonnet                   61,771 lines        ██████████░░░░░░░░░░░░░░░   38.61 % 
-Haiku                    5,635 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-Fable                    4,749 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Opus                     95,164 lines        ██████████████░░░░░░░░░░░   55.84 % 
+Sonnet                   65,489 lines        ██████████░░░░░░░░░░░░░░░   38.43 % 
+Haiku                    5,158 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Fable                    4,614 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.8% of written lines came from AI
-📚 Verbose Prompter — average 10,300 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 0.2% of changed lines were hand-edited
+🤖 AI-Driven — 99.83% of written lines came from AI
+📚 Verbose Prompter — average 10,502 characters per prompt
+🔁 Iterative Prompter — average 15 prompts per session
+🚀 High AI Trust — 0.17% of changed lines were hand-edited
 ```
 
 **Ich code am meisten in JavaScript** 
 
 ```text
-Lua                      24 repos            █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
-TypeScript               21 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-PHP                      10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-C#                       8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-Python                   6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Lua                      24 repos            █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
+TypeScript               21 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+PHP                      10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+C#                       9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+Python                   6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
 ```
 
 
 
 
- Last Updated on 15/08/2026 01:24:38 UTC
+ Last Updated on 16/08/2026 01:25:36 UTC
 <!--END_SECTION:waka-->
