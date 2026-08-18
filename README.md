@@ -27,9 +27,9 @@
 ## :zap: Codding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C352%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C382%20hrs%2050%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-152%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-183%20hrs%2048%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profilansichten-1-blue?style=flat)
 
@@ -39,7 +39,7 @@
 
 > 📦 3.9 MB im GitHub's Speicher verwendet 
  > 
-> 🏆 6,625 Beiträge im Jahr 2026
+> 🏆 6,626 Beiträge im Jahr 2026
  > 
 > 🚫 Sucht nicht nach Auftragsarbeiten
  > 
@@ -74,52 +74,51 @@ Sonntag                  4228 commits        ████░░░░░░░�
 🕑︎ Zeitzone: Europe/Zurich
 
 💬 Programmiersprachen: 
-TypeScript               63 hrs 25 mins      ██████████████░░░░░░░░░░░   57.34 % 
-Markdown                 31 hrs 2 mins       ███████░░░░░░░░░░░░░░░░░░   28.06 % 
-Other                    3 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-Diff                     2 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-JavaScript               2 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+TypeScript               62 hrs 26 mins      ██████████████░░░░░░░░░░░   56.41 % 
+Markdown                 28 hrs 49 mins      ███████░░░░░░░░░░░░░░░░░░   26.05 % 
+Lua                      3 hrs 53 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Other                    2 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+JavaScript               2 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 
 🔥 Editoren: 
-Claude Code              100 hrs 56 mins     ███████████████████████░░   91.24 % 
-Agent                    8 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-Cursor                   1 hr 6 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Claude Code              99 hrs 29 mins      ██████████████████████░░░   89.88 % 
+Agent                    9 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Cursor                   1 hr 52 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 
 🐱‍💻 Projekte: 
-HavenCMS                 99 hrs 1 min        ██████████████████████░░░   89.51 % 
+HavenCMS                 94 hrs 35 mins      █████████████████████░░░░   85.45 % 
+WowTauriUnlocker         5 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 Anfahrtskostenrechner-App4 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
 BFA-HavenCore-Corruption 2 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-trojan_discordlogs       1 hr 9 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-BFA-Haven-Web            1 hr 5 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Unknown Project          1 hr 13 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 💻 Betriebssystem: 
-Windows                  110 hrs 37 mins     █████████████████████████   100.00 % 
+Windows                  110 hrs 41 mins     █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 110 hrs 17 mins (99.7%)
+⏱ AI Coding Time: 110 hrs 33 mins (99.88%)
 
-✍️ 176,013 lines written by AI, 283 lines written by hand (99.84% AI-written)
+✍️ 166,415 lines written by AI, 657 lines written by hand (99.61% AI-written)
 
-🔤 91,107,778 Input Tokens, 18,897,408 Output Tokens
+🔤 90,950,548 Input Tokens, 19,105,902 Output Tokens
 
-💵 $1817.63 Estimated AI Cost This Week
+💵 $1952.67 Estimated AI Cost This Week
 
-🧠 66 AI Sessions, 979 AI Prompts
+🧠 66 AI Sessions, 1018 AI Prompts
 
-Opus                     104,684 lines       ███████████████░░░░░░░░░░   58.57 % 
-Sonnet                   68,247 lines        ██████████░░░░░░░░░░░░░░░   38.18 % 
-Haiku                    5,576 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-Composer                 232 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     101,971 lines       ███████████████░░░░░░░░░░   60.29 % 
+Sonnet                   61,083 lines        █████████░░░░░░░░░░░░░░░░   36.12 % 
+Haiku                    5,485 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+Composer                 595 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.84% of written lines came from AI
-📚 Verbose Prompter — average 10,268 characters per prompt
+🤖 AI-Driven — 99.61% of written lines came from AI
+📚 Verbose Prompter — average 10,184 characters per prompt
 🔁 Iterative Prompter — average 15 prompts per session
-🚀 High AI Trust — 0.16% of changed lines were hand-edited
+🚀 High AI Trust — 0.39% of changed lines were hand-edited
 ```
 
 **Ich code am meisten in JavaScript** 
@@ -135,5 +134,5 @@ Python                   6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2026 01:26:27 UTC
+ Last Updated on 18/08/2026 01:24:42 UTC
 <!--END_SECTION:waka-->
