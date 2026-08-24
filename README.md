@@ -27,9 +27,9 @@
 ## :zap: Codding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C461%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C469%20hrs%2021%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-266%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-274%20hrs%2031%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profilansichten-3-blue?style=flat)
 
@@ -74,50 +74,51 @@ Sonntag                  4676 commits        ████░░░░░░░�
 🕑︎ Zeitzone: Europe/Zurich
 
 💬 Programmiersprachen: 
-Lua                      37 hrs 7 mins       ████████░░░░░░░░░░░░░░░░░   31.84 % 
-Markdown                 34 hrs 3 mins       ███████░░░░░░░░░░░░░░░░░░   29.22 % 
-TypeScript               14 hrs 33 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-Python                   11 hrs 15 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-C++                      6 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+Lua                      40 hrs 55 mins      █████████░░░░░░░░░░░░░░░░   37.34 % 
+Markdown                 31 hrs 34 mins      ███████░░░░░░░░░░░░░░░░░░   28.82 % 
+Python                   12 hrs 34 mins      ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+C++                      10 hrs 16 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+Text                     4 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
 
 🔥 Editoren: 
-Claude Code              103 hrs 56 mins     ██████████████████████░░░   89.14 % 
-Agent                    6 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
-Cursor                   6 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+Claude Code              96 hrs 58 mins      ██████████████████████░░░   88.48 % 
+Cursor                   6 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Agent                    6 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
 
 🐱‍💻 Projekte: 
-AddOns                   46 hrs 34 mins      ██████████░░░░░░░░░░░░░░░   39.94 % 
-WowTauriUnlocker         26 hrs 12 mins      ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
-HavenCMS                 23 hrs 13 mins      █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
-Helios                   14 hrs 33 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-Unknown Project          1 hr 36 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+AddOns                   46 hrs 36 mins      ███████████░░░░░░░░░░░░░░   42.52 % 
+Helios                   38 hrs 42 mins      █████████░░░░░░░░░░░░░░░░   35.32 % 
+WowTauriUnlocker         21 hrs 21 mins      █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
+Unknown Project          1 hr 1 min          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Baganator                36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 💻 Betriebssystem: 
-Windows                  116 hrs 35 mins     █████████████████████████   100.00 % 
+Windows                  109 hrs 35 mins     █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 116 hrs 28 mins (99.9%)
+⏱ AI Coding Time: 109 hrs 26 mins (99.86%)
 
-✍️ 194,588 lines written by AI, 467 lines written by hand (99.76% AI-written)
+✍️ 181,332 lines written by AI, 135 lines written by hand (99.93% AI-written)
 
-🔤 87,591,809 Input Tokens, 22,941,966 Output Tokens
+🔤 84,216,947 Input Tokens, 23,039,496 Output Tokens
 
-💵 $2646.62 Estimated AI Cost This Week
+💵 $2876.78 Estimated AI Cost This Week
 
-🧠 61 AI Sessions, 1179 AI Prompts
+🧠 59 AI Sessions, 1335 AI Prompts
 
-Opus                     154,660 lines       ████████████████████░░░░░   80.21 % 
-Sonnet                   32,664 lines        ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Composer                 3,417 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-Haiku                    2,084 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Opus                     143,086 lines       ████████████████████░░░░░   80.01 % 
+Sonnet                   31,360 lines        ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+Composer                 2,822 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+Haiku                    1,006 lines         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Fable                    550 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.76% of written lines came from AI
-📚 Verbose Prompter — average 10,855 characters per prompt
-🔁 Iterative Prompter — average 19 prompts per session
+🤖 AI-Driven — 99.93% of written lines came from AI
+📚 Verbose Prompter — average 9,474 characters per prompt
+🔁 Iterative Prompter — average 23 prompts per session
 🚀 High AI Trust — 0.24% of changed lines were hand-edited
 ```
 
@@ -134,5 +135,5 @@ Python                   6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2026 01:30:08 UTC
+ Last Updated on 24/08/2026 01:29:22 UTC
 <!--END_SECTION:waka-->
