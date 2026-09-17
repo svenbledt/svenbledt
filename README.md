@@ -51,20 +51,20 @@
 
 ```text
 🌞 Morgens                2862 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-🌆 Mittags                8587 commits        ███████░░░░░░░░░░░░░░░░░░   26.87 % 
-🌃 Abends                 11688 commits       █████████░░░░░░░░░░░░░░░░   36.57 % 
+🌆 Mittags                8587 commits        ███████░░░░░░░░░░░░░░░░░░   26.86 % 
+🌃 Abends                 11692 commits       █████████░░░░░░░░░░░░░░░░   36.58 % 
 🌙 Nachts                 8825 commits        ███████░░░░░░░░░░░░░░░░░░   27.61 % 
 ```
 📅 **Ich bin am Mittwoch am produktivsten** 
 
 ```text
 Montag                   4776 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-Dienstag                 5749 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-Mittwoch                 6046 commits        █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
-Donnerstag               3489 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+Dienstag                 5753 commits        ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+Mittwoch                 6046 commits        █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+Donnerstag               3489 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
 Freitag                  2970 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
 Samstag                  3800 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-Sonntag                  5132 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Sonntag                  5132 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
 ```
 
 
@@ -74,50 +74,31 @@ Sonntag                  5132 commits        ████░░░░░░░�
 🕑︎ Zeitzone: Europe/Zurich
 
 💬 Programmiersprachen: 
-Markdown                 2 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   34.89 % 
-C#                       2 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   31.12 % 
-TypeScript               1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
-Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+TypeScript               51 mins             ████████████░░░░░░░░░░░░░   47.62 % 
+Bash                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+JSON                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+Lua                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+C#                       9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
 
 🔥 Editoren: 
-Claude Code              5 hrs 44 mins       ██████████████████░░░░░░░   70.89 % 
-Cursor                   2 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   26.85 % 
-Agent                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Cursor                   1 hr 48 mins        █████████████████████████   99.94 % 
+Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🐱‍💻 Projekte: 
-Databased                5 hrs 41 mins       ██████████████████░░░░░░░   70.17 % 
-trojan_discordlogs       2 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
-Helios                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+trojan_discordlogs       1 hr 15 mins        █████████████████░░░░░░░░   69.65 % 
+Helios                   18 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+Databased                10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+Helix                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 💻 Betriebssystem: 
-Windows                  8 hrs 6 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 48 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 3 mins (74.77%)
-
-✍️ 17,994 lines written by AI, 74 lines written by hand (99.59% AI-written)
-
-🔤 7,045,226 Input Tokens, 731,160 Output Tokens
-
-💵 $162.26 Estimated AI Cost This Week
-
-🧠 6 AI Sessions, 60 AI Prompts
-
-Fable                    9,399 lines         █████████████░░░░░░░░░░░░   51.41 % 
-Sonnet                   4,755 lines         ███████░░░░░░░░░░░░░░░░░░   26.01 % 
-Opus                     4,127 lines         ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
-Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.59% of written lines came from AI
-📚 Verbose Prompter — average 5,985 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 0.87% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **Ich code am meisten in JavaScript** 
@@ -133,5 +114,5 @@ Python                   5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2026 03:20:30 UTC
+ Last Updated on 17/09/2026 03:16:19 UTC
 <!--END_SECTION:waka-->
