@@ -27,19 +27,19 @@
 ## :zap: Codding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C650%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C650%20hrs%2023%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-456%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profilansichten-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/Seit%20Hallo%20Welt%20habe%20ich%20geschrieben-66.71%20million%20Codezeilen-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/Seit%20Hallo%20Welt%20habe%20ich%20geschrieben-66.70%20million%20Codezeilen-blue?style=flat)
 
 **🐱 Meine GitHub-Daten** 
 
 > 📦 3.9 MB im GitHub's Speicher verwendet 
  > 
-> 🏆 7,616 Beiträge im Jahr 2026
+> 🏆 7,624 Beiträge im Jahr 2026
  > 
 > 🚫 Sucht nicht nach Auftragsarbeiten
  > 
@@ -50,21 +50,21 @@
 **Ich bin eine Nachteule 🦉** 
 
 ```text
-🌞 Morgens                2862 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-🌆 Mittags                8587 commits        ███████░░░░░░░░░░░░░░░░░░   26.86 % 
-🌃 Abends                 11692 commits       █████████░░░░░░░░░░░░░░░░   36.58 % 
-🌙 Nachts                 8825 commits        ███████░░░░░░░░░░░░░░░░░░   27.61 % 
+🌞 Morgens                2807 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+🌆 Mittags                8540 commits        ███████░░░░░░░░░░░░░░░░░░   26.81 % 
+🌃 Abends                 11685 commits       █████████░░░░░░░░░░░░░░░░   36.68 % 
+🌙 Nachts                 8825 commits        ███████░░░░░░░░░░░░░░░░░░   27.70 % 
 ```
 📅 **Ich bin am Mittwoch am produktivsten** 
 
 ```text
-Montag                   4776 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-Dienstag                 5753 commits        ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-Mittwoch                 6046 commits        █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-Donnerstag               3489 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Freitag                  2970 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-Samstag                  3800 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-Sonntag                  5132 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+Montag                   4776 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+Dienstag                 5735 commits        ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+Mittwoch                 6046 commits        █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
+Donnerstag               3497 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+Freitag                  2948 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+Samstag                  3723 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+Sonntag                  5132 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
 ```
 
 
@@ -74,25 +74,24 @@ Sonntag                  5132 commits        ████░░░░░░░�
 🕑︎ Zeitzone: Europe/Zurich
 
 💬 Programmiersprachen: 
-TypeScript               51 mins             ████████████░░░░░░░░░░░░░   47.62 % 
-Bash                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-JSON                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-Lua                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-C#                       9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+TypeScript               48 mins             ████████████████░░░░░░░░░   62.97 % 
+JSON                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Markdown                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Docker                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Lua                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
 
 🔥 Editoren: 
-Cursor                   1 hr 48 mins        █████████████████████████   99.94 % 
-Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Cursor                   1 hr 17 mins        █████████████████████████   99.92 % 
+Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🐱‍💻 Projekte: 
-trojan_discordlogs       1 hr 15 mins        █████████████████░░░░░░░░   69.65 % 
-Helios                   18 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-Databased                10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-Helix                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+trojan_discordlogs       1 hr 12 mins        ████████████████████████░   94.07 % 
+Helix                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+Databased                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 💻 Betriebssystem: 
-Windows                  1 hr 48 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 17 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -114,5 +113,5 @@ Python                   5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2026 03:16:19 UTC
+ Last Updated on 18/09/2026 03:02:04 UTC
 <!--END_SECTION:waka-->
