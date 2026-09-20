@@ -27,9 +27,9 @@
 ## :zap: Codding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C650%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C650%20hrs%2024%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-456%20hrs%2038%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-456%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profilansichten-0-blue?style=flat)
 
@@ -74,23 +74,22 @@ Sonntag                  5132 commits        ████░░░░░░░�
 🕑︎ Zeitzone: Europe/Zurich
 
 💬 Programmiersprachen: 
-TypeScript               45 mins             ██████████████░░░░░░░░░░░   57.20 % 
-Markdown                 13 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-JSON                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-Docker                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-Lua                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+TypeScript               36 mins             █████████████░░░░░░░░░░░░   52.28 % 
+Markdown                 13 mins             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+JSON                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Docker                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+Lua                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
 
 🔥 Editoren: 
-Cursor                   1 hr 19 mins        █████████████████████████   99.92 % 
-Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Cursor                   1 hr 9 mins         █████████████████████████   99.91 % 
+Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🐱‍💻 Projekte: 
-trojan_discordlogs       1 hr 16 mins        ████████████████████████░   95.53 % 
-Helix                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-Databased                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+trojan_discordlogs       1 hr 6 mins         ████████████████████████░   95.20 % 
+Helix                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
 
 💻 Betriebssystem: 
-Windows                  1 hr 19 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 9 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -112,5 +111,5 @@ Python                   5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2026 03:07:21 UTC
+ Last Updated on 20/09/2026 03:14:35 UTC
 <!--END_SECTION:waka-->
