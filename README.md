@@ -27,9 +27,9 @@
 ## :zap: Codding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C650%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C651%20hrs%2027%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-456%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-457%20hrs%2059%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profilansichten-0-blue?style=flat)
 
@@ -39,7 +39,7 @@
 
 > 📦 3.9 MB im GitHub's Speicher verwendet 
  > 
-> 🏆 7,631 Beiträge im Jahr 2026
+> 🏆 7,637 Beiträge im Jahr 2026
  > 
 > 🚫 Sucht nicht nach Auftragsarbeiten
  > 
@@ -52,19 +52,19 @@
 ```text
 🌞 Morgens                2807 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
 🌆 Mittags                8552 commits        ███████░░░░░░░░░░░░░░░░░░   26.83 % 
-🌃 Abends                 11686 commits       █████████░░░░░░░░░░░░░░░░   36.67 % 
-🌙 Nachts                 8825 commits        ███████░░░░░░░░░░░░░░░░░░   27.69 % 
+🌃 Abends                 11689 commits       █████████░░░░░░░░░░░░░░░░   36.67 % 
+🌙 Nachts                 8828 commits        ███████░░░░░░░░░░░░░░░░░░   27.69 % 
 ```
 📅 **Ich bin am Mittwoch am produktivsten** 
 
 ```text
-Montag                   4776 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-Dienstag                 5736 commits        ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-Mittwoch                 6051 commits        █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
+Montag                   4779 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+Dienstag                 5736 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+Mittwoch                 6051 commits        █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
 Donnerstag               3497 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
 Freitag                  2955 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
 Samstag                  3723 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-Sonntag                  5132 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+Sonntag                  5135 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
 ```
 
 
@@ -74,28 +74,47 @@ Sonntag                  5132 commits        ████░░░░░░░�
 🕑︎ Zeitzone: Europe/Zurich
 
 💬 Programmiersprachen: 
-TypeScript               36 mins             █████████████░░░░░░░░░░░░   52.28 % 
-Markdown                 13 mins             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-JSON                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-Docker                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-Lua                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+TypeScript               36 mins             ████████████████░░░░░░░░░   62.51 % 
+Markdown                 13 mins             ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
+Docker                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Lua                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 
 🔥 Editoren: 
-Cursor                   1 hr 9 mins         █████████████████████████   99.91 % 
-Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Cursor                   58 mins             █████████████████████████   99.73 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🐱‍💻 Projekte: 
-trojan_discordlogs       1 hr 6 mins         ████████████████████████░   95.20 % 
-Helix                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+trojan_discordlogs       53 mins             ███████████████████████░░   92.32 % 
+Helix                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+Admin                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 
 💻 Betriebssystem: 
-Windows                  1 hr 9 mins         █████████████████████████   100.00 % 
+Windows                  58 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 min (1.94%)
+
+✍️ 0 lines written by AI, 7 lines written by hand (0.0% AI-written)
+
+🔤 112,294 Input Tokens, 4,405 Output Tokens
+
+💵 $1.44 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 1 AI Prompts
+
+Sonnet                   184 lines           █████████████████████████   100.00 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 104 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **Ich code am meisten in JavaScript** 
@@ -111,5 +130,5 @@ Python                   5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2026 03:14:35 UTC
+ Last Updated on 21/09/2026 03:10:07 UTC
 <!--END_SECTION:waka-->
