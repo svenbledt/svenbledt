@@ -74,41 +74,41 @@ Sonntag                  5135 commits        ████░░░░░░░�
 🕑︎ Zeitzone: Europe/Zurich
 
 💬 Programmiersprachen: 
-Markdown                 9 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   30.35 % 
-C++                      7 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
-TypeScript               6 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
-JSON                     1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
-CMake                    1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+Markdown                 9 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   29.16 % 
+C++                      7 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
+TypeScript               6 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
+JSON                     1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+CMake                    1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
 
 🔥 Editoren: 
-Cursor                   14 hrs 19 mins      ████████████░░░░░░░░░░░░░   47.01 % 
-Claude Code              8 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   27.70 % 
-Agent                    7 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
-Antigravity CLI          24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Cursor                   15 hrs 8 mins       ████████████░░░░░░░░░░░░░   48.40 % 
+Claude Code              8 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   26.97 % 
+Agent                    7 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
+Antigravity CLI          24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 🐱‍💻 Projekte: 
-GigaOSUppo               13 hrs 41 mins      ███████████░░░░░░░░░░░░░░   44.96 % 
-trojan_discordlogs       11 hrs 29 mins      █████████░░░░░░░░░░░░░░░░   37.73 % 
-Unknown Project          2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-d884ae04edebef577e82ff7c41 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-Admin                    25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+GigaOSUppo               14 hrs 38 mins      ████████████░░░░░░░░░░░░░   46.80 % 
+trojan_discordlogs       11 hrs 20 mins      █████████░░░░░░░░░░░░░░░░   36.23 % 
+Unknown Project          2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+d884ae04edebef577e82ff7c41 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Admin                    25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 
 💻 Betriebssystem: 
-Windows                  30 hrs 27 mins      █████████████████████████   100.00 % 
+Windows                  31 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 hrs 6 mins (98.86%)
+⏱ AI Coding Time: 31 hrs 5 mins (99.39%)
 
-✍️ 42,663 lines written by AI, 13 lines written by hand (99.97% AI-written)
+✍️ 42,709 lines written by AI, 13 lines written by hand (99.97% AI-written)
 
 🔤 9,520,239 Input Tokens, 2,222,506 Output Tokens
 
 💵 $167.91 Estimated AI Cost This Week
 
-🧠 250 AI Sessions, 827 AI Prompts
+🧠 251 AI Sessions, 835 AI Prompts
 
 Sonnet                   16,800 lines        ███████████████████░░░░░░   74.18 % 
 Opus                     3,704 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
@@ -117,7 +117,7 @@ Composer                 0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.97% of written lines came from AI
-📚 Verbose Prompter — average 6,021 characters per prompt
+📚 Verbose Prompter — average 5,964 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.03% of changed lines were hand-edited
 ```
@@ -135,5 +135,5 @@ PHP                      10 repos            ██░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2026 03:23:46 UTC
+ Last Updated on 26/09/2026 03:25:49 UTC
 <!--END_SECTION:waka-->
