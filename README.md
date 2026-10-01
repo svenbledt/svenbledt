@@ -33,7 +33,7 @@
 
 ![Profile Views](http://img.shields.io/badge/Profilansichten-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/Seit%20Hallo%20Welt%20habe%20ich%20geschrieben-66.76%20million%20Codezeilen-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/Seit%20Hallo%20Welt%20habe%20ich%20geschrieben-55.73%20million%20Codezeilen-blue?style=flat)
 
 **🐱 Meine GitHub-Daten** 
 
@@ -50,21 +50,21 @@
 **Ich bin eine Nachteule 🦉** 
 
 ```text
-🌞 Morgens                2808 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-🌆 Mittags                8611 commits        ███████░░░░░░░░░░░░░░░░░░   26.86 % 
-🌃 Abends                 11765 commits       █████████░░░░░░░░░░░░░░░░   36.70 % 
-🌙 Nachts                 8876 commits        ███████░░░░░░░░░░░░░░░░░░   27.69 % 
+🌞 Morgens                2803 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+🌆 Mittags                8593 commits        ███████░░░░░░░░░░░░░░░░░░   26.89 % 
+🌃 Abends                 11704 commits       █████████░░░░░░░░░░░░░░░░   36.63 % 
+🌙 Nachts                 8852 commits        ███████░░░░░░░░░░░░░░░░░░   27.70 % 
 ```
 📅 **Ich bin am Mittwoch am produktivsten** 
 
 ```text
-Montag                   4829 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Dienstag                 5853 commits        █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
-Mittwoch                 6064 commits        █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-Donnerstag               3501 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-Freitag                  2955 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-Samstag                  3723 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-Sonntag                  5135 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+Montag                   4815 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Dienstag                 5846 commits        █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
+Mittwoch                 6032 commits        █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
+Donnerstag               3488 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+Freitag                  2928 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+Samstag                  3716 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Sonntag                  5127 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
 ```
 
 
@@ -74,50 +74,46 @@ Sonntag                  5135 commits        ████░░░░░░░�
 🕑︎ Zeitzone: Europe/Zurich
 
 💬 Programmiersprachen: 
-C++                      4 hrs 9 mins        █████████████░░░░░░░░░░░░   50.47 % 
-Text                     1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-Markdown                 44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-JSON                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-CMake                    32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+C++                      31 mins             ███████████░░░░░░░░░░░░░░   45.50 % 
+JSON                     23 mins             █████████░░░░░░░░░░░░░░░░   34.36 % 
+Text                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+Image (jpeg)             5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 
 🔥 Editoren: 
-Cursor                   5 hrs 41 mins       █████████████████░░░░░░░░   69.02 % 
-Agent                    2 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   28.76 % 
-Claude Code              10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+Cursor                   1 hr 6 mins         ████████████████████████░   96.17 % 
+Claude Code              2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
 
 🐱‍💻 Projekte: 
-GigaOSUppo               5 hrs 35 mins       █████████████████░░░░░░░░   67.84 % 
-Unknown Project          1 hr 53 mins        ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
-terminals                16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-d884ae04edebef577e82ff7c415 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-Admin                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+GigaOSUppo               1 hr 5 mins         ████████████████████████░   96.51 % 
+scratch-2026-09-28-9fe4862 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
 
 💻 Betriebssystem: 
-Windows                  8 hrs 14 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 1 min          █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 12 mins (99.56%)
+⏱ AI Coding Time: 1 hr 1 min (100.0%)
 
-✍️ 6,150 lines written by AI, 1 lines written by hand (99.98% AI-written)
+✍️ 46 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,081,170 Input Tokens, 448,793 Output Tokens
+🔤 484,827 Input Tokens, 915 Output Tokens
 
-💵 $15.30 Estimated AI Cost This Week
+💵 $7.61 Estimated AI Cost This Week
 
-🧠 55 AI Sessions, 174 AI Prompts
+🧠 2 AI Sessions, 10 AI Prompts
 
 Sonnet                   161 lines           █████████████████████████   100.00 % 
-Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📚 Verbose Prompter — average 10,490 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.02% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 180 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **Ich code am meisten in JavaScript** 
@@ -133,5 +129,5 @@ PHP                      10 repos            ██░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2026 03:57:24 UTC
+ Last Updated on 01/10/2026 04:06:46 UTC
 <!--END_SECTION:waka-->
