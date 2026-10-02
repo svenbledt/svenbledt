@@ -50,21 +50,21 @@
 **Ich bin eine Nachteule 🦉** 
 
 ```text
-🌞 Morgens                2803 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-🌆 Mittags                8593 commits        ███████░░░░░░░░░░░░░░░░░░   26.89 % 
-🌃 Abends                 11704 commits       █████████░░░░░░░░░░░░░░░░   36.63 % 
-🌙 Nachts                 8852 commits        ███████░░░░░░░░░░░░░░░░░░   27.70 % 
+🌞 Morgens                2823 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+🌆 Mittags                8613 commits        ███████░░░░░░░░░░░░░░░░░░   26.92 % 
+🌃 Abends                 11704 commits       █████████░░░░░░░░░░░░░░░░   36.58 % 
+🌙 Nachts                 8852 commits        ███████░░░░░░░░░░░░░░░░░░   27.67 % 
 ```
 📅 **Ich bin am Mittwoch am produktivsten** 
 
 ```text
-Montag                   4815 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Dienstag                 5846 commits        █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
-Mittwoch                 6032 commits        █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-Donnerstag               3488 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-Freitag                  2928 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-Samstag                  3716 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-Sonntag                  5127 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+Montag                   4815 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+Dienstag                 5850 commits        █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
+Mittwoch                 6032 commits        █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
+Donnerstag               3488 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Freitag                  2936 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+Samstag                  3744 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+Sonntag                  5127 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
 ```
 
 
@@ -74,46 +74,38 @@ Sonntag                  5127 commits        ████░░░░░░░�
 🕑︎ Zeitzone: Europe/Zurich
 
 💬 Programmiersprachen: 
-C++                      31 mins             ███████████░░░░░░░░░░░░░░   45.50 % 
-JSON                     23 mins             █████████░░░░░░░░░░░░░░░░   34.36 % 
-Text                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-Image (jpeg)             5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+Other                    2 mins              █████████████████████████   100.00 % 
 
 🔥 Editoren: 
-Cursor                   1 hr 6 mins         ████████████████████████░   96.17 % 
-Claude Code              2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+Claude Code              2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projekte: 
-GigaOSUppo               1 hr 5 mins         ████████████████████████░   96.51 % 
-scratch-2026-09-28-9fe4862 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+scratch-2026-09-28-9fe4862 mins              █████████████████████████   100.00 % 
 
 💻 Betriebssystem: 
-Windows                  1 hr 1 min          █████████████████████████   100.00 % 
+Windows                  2 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 1 min (100.0%)
+⏱ AI Coding Time: 2 mins (100.0%)
 
-✍️ 46 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
 🔤 484,827 Input Tokens, 915 Output Tokens
 
-💵 $7.61 Estimated AI Cost This Week
+💵 $2.03 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 10 AI Prompts
+🧠 1 AI Sessions, 2 AI Prompts
 
-Sonnet                   161 lines           █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 180 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📄 Detailed Prompter — average 552 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **Ich code am meisten in JavaScript** 
@@ -129,5 +121,5 @@ PHP                      10 repos            ██░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2026 04:06:46 UTC
+ Last Updated on 02/10/2026 04:08:42 UTC
 <!--END_SECTION:waka-->
