@@ -46,17 +46,15 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C784%20hrs%2036%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-596%20hrs%2013%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profilansichten-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/Seit%20Hallo%20Welt%20habe%20ich%20geschrieben-69.44%20million%20Codezeilen-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/Seit%20Hallo%20Welt%20habe%20ich%20geschrieben-58.41%20million%20Codezeilen-blue?style=flat)
 
 **🐱 Meine GitHub-Daten** 
 
 > 📦 4.2 MB im GitHub's Speicher verwendet 
  > 
-> 🏆 9,792 Beiträge im Jahr 2026
+> 🏆 9,794 Beiträge im Jahr 2026
  > 
 > 🚫 Sucht nicht nach Auftragsarbeiten
  > 
@@ -67,21 +65,21 @@
 **Ich bin eine Nachteule 🦉** 
 
 ```text
-🌞 Morgens                2977 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-🌆 Mittags                10291 commits       ███████░░░░░░░░░░░░░░░░░░   27.04 % 
-🌃 Abends                 14149 commits       █████████░░░░░░░░░░░░░░░░   37.18 % 
-🌙 Nachts                 10638 commits       ███████░░░░░░░░░░░░░░░░░░   27.95 % 
+🌞 Morgens                2967 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+🌆 Mittags                10268 commits       ███████░░░░░░░░░░░░░░░░░░   27.06 % 
+🌃 Abends                 14097 commits       █████████░░░░░░░░░░░░░░░░   37.15 % 
+🌙 Nachts                 10614 commits       ███████░░░░░░░░░░░░░░░░░░   27.97 % 
 ```
 📅 **Ich bin am Mittwoch am produktivsten** 
 
 ```text
-Montag                   5944 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Dienstag                 6875 commits        █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-Mittwoch                 7125 commits        █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
-Donnerstag               3970 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Freitag                  3752 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-Samstag                  4299 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-Sonntag                  6090 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Montag                   5930 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+Dienstag                 6873 commits        █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
+Mittwoch                 7093 commits        █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
+Donnerstag               3957 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Freitag                  3723 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+Samstag                  4288 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+Sonntag                  6082 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
 ```
 
 
@@ -91,51 +89,25 @@ Sonntag                  6090 commits        ████░░░░░░░�
 🕑︎ Zeitzone: Europe/Zurich
 
 💬 Programmiersprachen: 
-Markdown                 15 hrs 45 mins      █████████░░░░░░░░░░░░░░░░   37.64 % 
-TypeScript               6 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-C++                      4 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-Python                   2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-JSON                     2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+Markdown                 9 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   27.90 % 
+TypeScript               5 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+Python                   3 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+Rust                     2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+C++                      2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
 
 🔥 Editoren: 
-Claude Code              41 hrs 5 mins       █████████████████████████   98.12 % 
-Cursor                   47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Claude Code              34 hrs 21 mins      █████████████████████████   98.60 % 
+Cursor                   29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 
 🐱‍💻 Projekte: 
-trojan_discordlogs       14 hrs 20 mins      █████████░░░░░░░░░░░░░░░░   34.25 % 
-trinitycore-mop-classic  8 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
-Databased                4 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-CoV                      3 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
-Helios                   2 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+trojan_discordlogs       11 hrs 8 mins       ████████░░░░░░░░░░░░░░░░░   31.95 % 
+enshrouded-sge           6 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
+trinitycore-mop-classic  5 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+Databased                4 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+CoV                      3 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
 
 💻 Betriebssystem: 
-Windows                  41 hrs 53 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 41 hrs 39 mins (99.47%)
-
-✍️ 79,430 lines written by AI, 29 lines written by hand (99.96% AI-written)
-
-🔤 45,960,272 Input Tokens, 7,589,675 Output Tokens
-
-💵 $1011.34 Estimated AI Cost This Week
-
-🧠 33 AI Sessions, 427 AI Prompts
-
-Opus                     65,295 lines        ████████████████████░░░░░   80.68 % 
-Sonnet                   12,763 lines        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-Haiku                    2,856 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-Grok                     20 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.96% of written lines came from AI
-📚 Verbose Prompter — average 3,123 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 0.04% of changed lines were hand-edited
+Windows                  34 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 **Ich code am meisten in JavaScript** 
@@ -151,5 +123,5 @@ PHP                      10 repos            ██░░░░░░░░░�
 
 
 
- Last Updated on 17/10/2026 03:02:03 UTC
+ Last Updated on 17/10/2026 19:04:22 UTC
 <!--END_SECTION:waka-->
