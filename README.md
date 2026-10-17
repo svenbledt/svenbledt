@@ -1,30 +1,47 @@
-### <img src="https://github.com/svenbledt/svenbledt/blob/main/Assets/Hi.gif" height="28" width="24"> **Hello Github!** &nbsp;<img src="https://github.com/svenbledt/svenbledt/blob/main/Assets/Earth.gif" height="24" width="24">
-[![GitHub Followers](https://img.shields.io/github/followers/svenbledt?label=Follow&style=flat-squaree&logo=github&labelColor=black&color=black&cacheSeconds=5)](https://github.com/svenbledt)
-[![Discord Server](https://img.shields.io/discord/443405445831327754?style=flat-squeree&logo=discord&logoColor=white&label=Trojan%20Chillecke%20Server&labelColor=black&color=gray&cacheSeconds=3650)](https://discord.gg/c6GZKjVhxw)
-<img align="right" alt="PC GIF" src="https://github.com/svenbledt/svenbledt/blob/main/Assets/PC.gif" width="175" />
+<h1>
+  <img src="Assets/Hi.gif" height="32" alt="" /> Hi, I'm Sven
+</h1>
 
 <p>
-
- - 🔭 I’m currently working on **[Warmane-Tool](https://github.com/svenbledt/Warmane-Bot)** [![wakatime](https://wakatime.com/badge/user/eb1cebc0-6a00-4f39-ab37-6770a4331515/project/b1c02622-6489-4920-898c-6e91c5bba727.svg)](https://wakatime.com/badge/user/eb1cebc0-6a00-4f39-ab37-6770a4331515/project/b1c02622-6489-4920-898c-6e91c5bba727)
- - 🔭 My current main Project is **[Streckenkunde](https://github.com/Streckenkunde)** [![wakatime](https://wakatime.com/badge/user/eb1cebc0-6a00-4f39-ab37-6770a4331515/project/8c10f4f0-0d09-4e0e-b526-eec4de9936b6.svg)](https://wakatime.com/badge/user/eb1cebc0-6a00-4f39-ab37-6770a4331515/project/8c10f4f0-0d09-4e0e-b526-eec4de9936b6)
-
- - 🌱 I’m currently learning: **[Lua](https://www.lua.org/)**
- 
+  <b>Web &amp; application developer from Switzerland</b> &mdash; building desktop tools, web apps and game server tooling.
 </p>
 
-<br>
+<p>
+  <a href="https://github.com/svenbledt"><img src="https://img.shields.io/github/followers/svenbledt?label=Follow&style=for-the-badge&logo=github&labelColor=0d1117&color=161b22" alt="GitHub followers" /></a>
+  <a href="https://svenbledt.github.io"><img src="https://img.shields.io/badge/Website-svenbledt.github.io-58a6da?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Website" /></a>
+  <a href="https://discord.gg/c6GZKjVhxw"><img src="https://img.shields.io/discord/443405445831327754?style=for-the-badge&logo=discord&logoColor=white&label=Trojan%20Chillecke&labelColor=0d1117&color=5865F2" alt="Discord server" /></a>
+</p>
 
-## :zap: Github Stats
+<img align="right" src="Assets/PC.gif" width="200" alt="" />
 
-<a href="https://github.com/svenbledt">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=svenbledt&show_icons=true&title_color=c9d1d9&icon_color=58a6da&text_color=c9d1d9&bg_color=0d1117&hide=issues" alt="svenbledt's Github Stats" width="60%">
- </a>
- <a href="https://github.com/svenbledt">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svenbledt&show_icons=true&title_color=c9d1d9&icon_color=58a6da&text_color=c9d1d9&bg_color=0d1117" alt="svenbledt's Github Stats" width="35%">
- </a>
+### :rocket: What I'm working on
 
-<br> <br> <br> <br> 
-## :zap: Codding Stats
+- **[Databased](https://github.com/svenbledt/databased-releases)** &mdash; a cross-platform database manager for Windows, macOS and Linux.<br>
+  <a href="https://github.com/svenbledt/databased-releases/releases/latest"><img src="https://img.shields.io/github/v/release/svenbledt/databased-releases?label=Latest&style=flat-square&labelColor=0d1117&color=58a6da" alt="Latest Databased release" /></a>
+  <a href="https://github.com/svenbledt/databased-releases/releases/latest"><img src="https://img.shields.io/badge/Download-Windows%20%7C%20macOS%20%7C%20Linux-238636?style=flat-square&labelColor=0d1117" alt="Download Databased" /></a>
+- **[Streckenkunde](https://github.com/Streckenkunde)** &mdash; my long-running main project.
+  [![wakatime](https://wakatime.com/badge/user/eb1cebc0-6a00-4f39-ab37-6770a4331515/project/8c10f4f0-0d09-4e0e-b526-eec4de9936b6.svg)](https://wakatime.com/badge/user/eb1cebc0-6a00-4f39-ab37-6770a4331515/project/8c10f4f0-0d09-4e0e-b526-eec4de9936b6)
+- :seedling: Currently learning **[Lua](https://www.lua.org/)**
+
+<br clear="right" />
+
+### :hammer_and_wrench: Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,php,mysql,java,kotlin,cs,cpp,lua&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, Vue, PHP, SQL, Java, Kotlin, C#, C++, Lua" />
+</p>
+
+### :zap: GitHub stats
+
+<p>
+  <a href="https://github.com/svenbledt"><img height="170" src="https://github-readme-stats.vercel.app/api?username=svenbledt&show_icons=true&hide=issues&hide_border=true&theme=github_dark&rank_icon=github" alt="Sven's GitHub stats" /></a>
+  <a href="https://github.com/svenbledt"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svenbledt&layout=compact&langs_count=8&hide_border=true&theme=github_dark" alt="Sven's top languages" /></a>
+</p>
+<p>
+  <a href="https://github.com/svenbledt"><img src="https://github-readme-streak-stats.herokuapp.com/?user=svenbledt&theme=github-dark-blue&hide_border=true" alt="Sven's contribution streak" /></a>
+</p>
+
+### :bar_chart: Coding stats
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C784%20hrs%2036%20mins-blue?style=flat)
