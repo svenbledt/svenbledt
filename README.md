@@ -44,17 +44,17 @@
 ### :bar_chart: Coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C826%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C830%20hrs%2030%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profilansichten-47-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/Seit%20Hallo%20Welt%20habe%20ich%20geschrieben-69.72%20million%20Codezeilen-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/Seit%20Hallo%20Welt%20habe%20ich%20geschrieben-70.57%20million%20Codezeilen-blue?style=flat)
 
 **🐱 Meine GitHub-Daten** 
 
 > 📦 5.3 MB im GitHub's Speicher verwendet 
  > 
-> 🏆 10,200 Beiträge im Jahr 2026
+> 🏆 10,230 Beiträge im Jahr 2026
  > 
 > 🚫 Sucht nicht nach Auftragsarbeiten
  > 
@@ -65,21 +65,21 @@
 **Ich bin eine Nachteule 🦉** 
 
 ```text
-🌞 Morgens                2904 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-🌆 Mittags                10249 commits       ███████░░░░░░░░░░░░░░░░░░   27.13 % 
-🌃 Abends                 14027 commits       █████████░░░░░░░░░░░░░░░░   37.13 % 
-🌙 Nachts                 10602 commits       ███████░░░░░░░░░░░░░░░░░░   28.06 % 
+🌞 Morgens                2898 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+🌆 Mittags                10292 commits       ███████░░░░░░░░░░░░░░░░░░   27.15 % 
+🌃 Abends                 14115 commits       █████████░░░░░░░░░░░░░░░░   37.23 % 
+🌙 Nachts                 10608 commits       ███████░░░░░░░░░░░░░░░░░░   27.98 % 
 ```
 📅 **Ich bin am Mittwoch am produktivsten** 
 
 ```text
-Montag                   5554 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-Dienstag                 6926 commits        █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
-Mittwoch                 7196 commits        █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-Donnerstag               4091 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-Freitag                  3639 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-Samstag                  4363 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-Sonntag                  6013 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+Montag                   5554 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+Dienstag                 6948 commits        █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+Mittwoch                 7281 commits        █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
+Donnerstag               4102 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+Freitag                  3638 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+Samstag                  4385 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+Sonntag                  6005 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
 ```
 
 
@@ -89,42 +89,42 @@ Sonntag                  6013 commits        ████░░░░░░░�
 🕑︎ Zeitzone: Europe/Zurich
 
 💬 Programmiersprachen: 
-Markdown                 12 hrs 37 mins      ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
-C++                      11 hrs 53 mins      █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
-Other                    5 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-Rust                     5 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-Python                   4 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+Markdown                 12 hrs 36 mins      ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
+C++                      12 hrs 24 mins      ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
+Other                    5 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+Lua                      4 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+Python                   3 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
 
 🔥 Editoren: 
-Claude Code              51 hrs 23 mins      ███████████████████████░░   91.78 % 
-Cursor                   4 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-Qwen Code Cli            14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-Cursor Agent             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-Antigravity CLI          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Claude Code              46 hrs 3 mins       ███████████████████████░░   90.67 % 
+Cursor                   4 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+Qwen Code Cli            14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Cursor Agent             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Antigravity CLI          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🐱‍💻 Projekte: 
-Helios                   22 hrs 9 mins       ██████████░░░░░░░░░░░░░░░   39.58 % 
-trinitycore-mop-classic  11 hrs 14 mins      █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
-enshrouded-sge           8 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-Helix                    3 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-Databased                2 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+Helios                   23 hrs 7 mins       ███████████░░░░░░░░░░░░░░   45.53 % 
+trinitycore-mop-classic  11 hrs 14 mins      ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
+Helix                    3 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+Databased                2 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+enshrouded-sge           2 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
 
 💻 Betriebssystem: 
-Windows                  55 hrs 59 mins      █████████████████████████   100.00 % 
+Windows                  50 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 **Ich code am meisten in JavaScript** 
 
 ```text
-Lua                      24 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-TypeScript               23 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-C++                      16 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-C#                       10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-Rust                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Lua                      24 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+TypeScript               23 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+C++                      17 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+C#                       10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+Rust                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 ```
 
 
 
 
- Last Updated on 24/10/2026 03:38:44 UTC
+ Last Updated on 25/10/2026 03:24:18 UTC
 <!--END_SECTION:waka-->
